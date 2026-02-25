@@ -14,7 +14,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> ARTHAM INDHA MASTARUU.</h2>
+      <h2> ARTHAM INDHA madam.</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
