@@ -14,7 +14,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> ARTHAM INDHA MASTUU.</h2>
+      <h2> ARTHAM INDHA MASTARUU.</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
@@ -30,10 +30,10 @@
             <input type="checkbox" id="remember-me" />
             <label for="remember-me">Remember me</label>
           </div>
-          <a href="#">Need help?</a>
+          <a href="#">Need help? PANI CHOOSKO</a>
         </div>
       </form>
-      <p>New to NNNNNNNNNNNetflix? <a href="#">Lets join uxxp now</a></p>
+      <p>New to Netflix? <a href="#">Lets join uxxp now</a></p>
       <small>
         This page is protected by Google reCAPTCHA to ensure you're not a bot.
         <a href="#">Learn more.</a>
